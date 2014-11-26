@@ -1,0 +1,9 @@
+c:\users\ulysses\documents\visual studio 2013\Projects\Matrices\Matrices\bin\Debug\Matrices.exe.config
+c:\users\ulysses\documents\visual studio 2013\Projects\Matrices\Matrices\bin\Debug\Matrices.exe
+c:\users\ulysses\documents\visual studio 2013\Projects\Matrices\Matrices\bin\Debug\Matrices.pdb
+c:\users\ulysses\documents\visual studio 2013\Projects\Matrices\Matrices\obj\Debug\Matrices.csprojResolveAssemblyReference.cache
+c:\users\ulysses\documents\visual studio 2013\Projects\Matrices\Matrices\obj\Debug\Matrices.Form1.resources
+c:\users\ulysses\documents\visual studio 2013\Projects\Matrices\Matrices\obj\Debug\Matrices.Properties.Resources.resources
+c:\users\ulysses\documents\visual studio 2013\Projects\Matrices\Matrices\obj\Debug\Matrices.csproj.GenerateResource.Cache
+c:\users\ulysses\documents\visual studio 2013\Projects\Matrices\Matrices\obj\Debug\Matrices.exe
+c:\users\ulysses\documents\visual studio 2013\Projects\Matrices\Matrices\obj\Debug\Matrices.pdb
